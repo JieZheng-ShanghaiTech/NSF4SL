@@ -189,7 +189,7 @@ if __name__ == '__main__':
     parser.add_argument('--latent_size', type=int, default=256, help='latent size for the encoders and predictor')
     parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
     parser.add_argument('--momentum', type=float, default=0.995, help='momentum for target encoder optimization')
-    parser.add_argument('--train_ratio', type=float, default=0.8, help='Percentage of training data used') 
+    parser.add_argument('--train_ratio', type=float, help='Percentage of training data used') 
     parser.add_argument('--weight_decay', type=float, default=0.0005, help='optimizer weight decay') 
 
     args = parser.parse_args()
