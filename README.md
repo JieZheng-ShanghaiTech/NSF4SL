@@ -3,7 +3,8 @@
 - NSF4SL is a negative-sample-free model for prediction of synthetic lethality (SL) based on a self-supervised contrastive learning framework. 
 
 ## Overview
- ![NSF4SL pipeline](https://github.com/JieZheng-ShanghaiTech/NSF4SL/raw/main/figs/pipeline.png)
+<!--  ![NSF4SL pipeline](https://github.com/JieZheng-ShanghaiTech/NSF4SL/raw/main/figs/pipeline.png) -->
+ <img alt='NSF4SL_pipeline' src="https://github.com/JieZheng-ShanghaiTech/NSF4SL/raw/main/figs/pipeline.png" width=90% height=90% div align='center'>
  
 ## Install
 ```
@@ -22,6 +23,8 @@ in the training set.
   - data path: .data/gene_split_cv2
 - CV3: the data is split by genes, where neither genes of a testing pair is present in the training set. 
   - data path: .data/gene_split_cv3
+<!-- ![cvsplit](https://github.com/JieZheng-ShanghaiTech/NSF4SL/raw/main/figs/cvsplit.png) -->
+ <img alt='cvsplit' src="https://github.com/JieZheng-ShanghaiTech/NSF4SL/raw/main/figs/cvsplit.png" width=70% height=70% div align='center'>
  
 The format of one input sample is `(gene1, gene2)`. Please modify the data path in main.py if you would like to test different CVs.
 
