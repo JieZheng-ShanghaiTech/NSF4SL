@@ -34,14 +34,16 @@ We train the SynLethKG embedding based on [DGL-KE](https://dglke.dgl.ai/doc/inde
 
 ## Example
 ```
-python main.py 
-    --aug_ratio=0.1         # ratio of augmentraion for each gene feature
-    --batch_size=256        # batch size for training
-    --gpu=0                 # ID of GPU
-    --latent_size=256       # latent size for encoders and predictor
-    --train_ratio=0.8       # ratio of training data
+python main.py  --aug_ratio=0.1 --batch_size=256 --gpu=0 --latent_size=256 --train_ratio=0.8
 ```
-
+```
+Illustration of the above hyper-parameters: 
+aug_ratio     # ratio of augmentraion for each gene feature
+batch_size    # batch size for training
+gpu=0         # ID of GPU
+latent_size   # latent size for encoders and predictor
+train_ratio   # ratio of training data
+```
 
 ## Acknowledgement
 The code is inspired by [BUIR](https://github.com/donalee/BUIR).
