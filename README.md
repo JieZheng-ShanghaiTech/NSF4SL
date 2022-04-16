@@ -3,7 +3,7 @@
 - NSF4SL is a negative-sample-free model for prediction of synthetic lethality (SL) based on a self-supervised contrastive learning framework. 
 
 ## Overview
- to do
+ ![NSF4SL pipeline](https://github.com/JieZheng-ShanghaiTech/NSF4SL/raw/main/figs/pipeline.png)
 ## Install
 ```
 git clone git@github.com:JieZheng-ShanghaiTech/NSF4SL.git
