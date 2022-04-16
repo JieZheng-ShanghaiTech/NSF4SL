@@ -39,7 +39,6 @@ python main.py
     --batch_size=256        # batch size for training
     --gpu=0                 # ID of GPU
     --latent_size=256       # latent size for encoders and predictor
-    --train_ratio=None      # ratio of training data
 ```
 
 
