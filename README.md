@@ -38,6 +38,7 @@ python main.py  --aug_ratio=0.1 --batch_size=256 --gpu=0 --latent_size=256 --tra
 ```
 ```
 Illustration of the above hyper-parameters: 
+-------------------------------------------
 aug_ratio     # ratio of augmentraion for each gene feature
 batch_size    # batch size for training
 gpu=0         # ID of GPU
