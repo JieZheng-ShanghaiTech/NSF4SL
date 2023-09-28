@@ -52,5 +52,5 @@ The code is inspired by [BUIR](https://github.com/donalee/BUIR).
 Lee, Dongha, et al. "Bootstrapping user and item representations for one-class collaborative filtering." Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021.
 
 SL data and SynLethKG are constructed based on [SynLethDB 2.0](https://synlethdb.sist.shanghaitech.edu.cn/v2/#/).
->[SynLethDB 2.0: A web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery](https://www.biorxiv.org/content/10.1101/2021.12.28.474346v1.full.pdf) <br />
-Wang, Jie, et al. "SynLethDB 2.0: A web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery." bioRxiv (2021).
+>[SynLethDB 2.0: A web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery](https://doi.org/10.1093/database/baac030) <br />
+Wang, Jie, et al. "SynLethDB 2.0: a web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery“, Database, Volume 2022, 2022.
