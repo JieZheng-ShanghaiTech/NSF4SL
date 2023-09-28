@@ -49,8 +49,8 @@ train_ratio   # ratio of training data
 ## Acknowledgement
 The code is inspired by [BUIR](https://github.com/donalee/BUIR).
 >[Bootstrapping user and item representations for one-class collaborative filtering](https://arxiv.org/pdf/2105.06323.pdf) <br />
-Lee, Dongha, et al. "Bootstrapping user and item representations for one-class collaborative filtering." Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021.
+Lee, Dongha, et al. Bootstrapping user and item representations for one-class collaborative filtering, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.
 
 SL data and SynLethKG are constructed based on [SynLethDB 2.0](https://synlethdb.sist.shanghaitech.edu.cn/v2/#/).
 >[SynLethDB 2.0: A web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery](https://doi.org/10.1093/database/baac030) <br />
-Wang, Jie, et al. "SynLethDB 2.0: a web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery“, Database, Volume 2022, 2022.
+Wang, Jie, et al. SynLethDB 2.0: a web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery, Database, Volume 2022, 2022.
