@@ -1,5 +1,5 @@
 # NSF4SL: Negative-Sample-Free Contrastive Learning for Ranking Synthetic Lethal Partner Genes in Human Cancers
-- This is the code for our paper ``NSF4SL: Negative-Sample-Free Contrastive Learning for Ranking Synthetic Lethal Partner Genes in Human Cancers''.
+- This is the code for our paper: S. Wang et al. ``NSF4SL: Negative-Sample-Free Contrastive Learning for Ranking Synthetic Lethal Partner Genes in Human Cancers'', Bioinformatics, Volume 38, Issue Supplement_2, September 2022, Pages ii13–ii19 (ECCB special issue), https://doi.org/10.1093/bioinformatics/btac462.
 - NSF4SL is a negative-sample-free model for prediction of synthetic lethality (SL) based on a self-supervised contrastive learning framework. 
 
 ## Overview
